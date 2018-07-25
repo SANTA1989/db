@@ -60,8 +60,8 @@
       "title": "optio molestias id quia eum",
       "body": "quo et expedita mus veritatis error"
     }
-	],
-	"comments": [
+  ],
+  "comments": [
     {
       "postId": 1,
       "id": 1,
@@ -138,8 +138,9 @@
       "name": "fugit lunt nostrum sunt",
       "email": "Veronica_Goodwin@timmothy.net",
       "body": "ut ores ea"
-    }],
-	"users": [
+    }
+  ],
+  "users": [
     {
       "id": 1,
       "name": "Leanne Graham",
@@ -200,5 +201,7 @@
           "lat": "-68.6102",
           "lng": "-47.0653"
         }
-      }]
+      }
+    }
+  ]
 }
